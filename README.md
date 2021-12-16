@@ -1,2 +1,2 @@
 # dz5
-https://typecraft.org/tc2/Export
+file:///E:/tc2_export%20(2).html
